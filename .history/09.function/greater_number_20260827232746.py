@@ -1,2 +1,0 @@
-def greater_number():
-    
